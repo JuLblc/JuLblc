@@ -21,7 +21,7 @@ I am looking for my first developer position in a company with a structured lear
 - Project 0: <a href="https://github.com/JuLblc/Mars-Rover-Kata">Mars Rover</a> </br> Preparation work to the bootcamp
 - Project 1: <a href="https://github.com/JuLblc/Game-clean-the-earth">Clean the earth</a> </br> Friendly shooting game using canvas 
 - Project 2: <a href="https://github.com/JuLblc/sportsharing">Sportsharing</a> </br> Web application to connect people around sports
-- Project 3: <a href="">L'Alcôve</a> </br>E-commerce Web Application SPA & REST
+- Project 3: <a href="https://github.com/JuLblc/alcove">L'Alcôve</a> </br>E-commerce Web Application SPA & REST
 
 **Connect with me**
 
