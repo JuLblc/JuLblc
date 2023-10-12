@@ -1,10 +1,10 @@
 Hello tech community 👋,
 
 My name is Julien Leblanc, </br>
-I am a supply chain engineer and I've started a professional reconversion in 2021. I am changing career to Web developement!💻👏</br>
+Since 2021, I have made a career change to become a fullstack developer, leveraging my background as a supply chain engineer.💻👏</br>
 To achieve my goal, I joined and successfully completed the Ironhack Wed Developement Bootcamp. 
 <img height="20" src="https://user-images.githubusercontent.com/76005217/131209741-dab24007-e5d1-4058-9f88-3c11ded83ab6.png"></br></br>
-After my first experience as **fullstack software engineer** in a freight forwarding company, where I enjoyed learning how to work within a team and the coding basics, I am looking for a developer position in a company with a structured learning path and a strong mentor to continue to improve my recently developed skills and to decide what area I want to specialize on in the future.
+After my firsts experiences as **fullstack software engineer** in a freight forwarding company and in a cybersecurity startup , where I enjoyed learning how to work within a team, the coding basics and further developing my programming skills, I am seeking my next professional challenge.
 
 **Languages and tools**
 
@@ -13,12 +13,13 @@ After my first experience as **fullstack software engineer** in a freight forwar
 <code><img height="30" src="https://user-images.githubusercontent.com/76005217/131211252-f8478a95-6fc3-4505-bb04-69bdae8fcc77.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/76005217/131211260-b18feb3b-4529-4282-a7b3-e79130febb16.png"></code>
 <code><img height="30" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"></code>
+<code><img height="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png"></code>
+<code><img height="30" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr64W0wgUOxd626MphQsrQ1eiZg3Cku8AA5w&usqp=CAU"></code>
 <code><img height="30" src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal-thumbnail.png"></code>
 <code><img height="30" src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/76005217/131211308-5ed9bbd8-606b-4dd6-82cf-7818a8290a51.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/76005217/131211359-cde3275e-47c3-4f78-8974-12ed446b54cc.jpg"></code>
 <code><img height="30" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png"></code>
 
 **App in development**</br><img align="right" alt="coding" src="https://user-images.githubusercontent.com/76005217/131243903-af7a8e39-1e2b-411c-b14f-91eb19bf8738.jpg" width="550">
