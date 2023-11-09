@@ -1,10 +1,17 @@
 Hello tech community 👋,
 
 My name is Julien Leblanc, </br>
-Since 2021, I have made a career change to become a fullstack developer, leveraging my background as a supply chain engineer.💻👏</br>
-To achieve my goal, I joined and successfully completed the Ironhack Wed Developement Bootcamp. 
-<img height="20" src="https://user-images.githubusercontent.com/76005217/131209741-dab24007-e5d1-4058-9f88-3c11ded83ab6.png"></br></br>
-After my firsts experiences as **fullstack software engineer** in a freight forwarding company and in a cybersecurity startup , where I enjoyed learning how to work within a team, the coding basics and further developing my programming skills, I am seeking my next professional challenge.
+
+Supply Chain Engineer by training, after 10 years of experience in the field of transportation and logistics that have allowed me to grasp the functioning of a company, contribute to various projects (commercial, IT, production, etc.), and evolve in an international environment, I underwent a professional retraining in 2021 to become a full-stack developer 💻👏
+<img height="20" src="https://user-images.githubusercontent.com/76005217/131209741-dab24007-e5d1-4058-9f88-3c11ded83ab6.png"></br>
+
+My firsts experiences as **full-stack developer** in a freight forwarding company and in a cybersecurity startup have allowed me to build a solid knowledge of computer programming, enabling me to contribute to demanding and innovative web projects.
+
+I enjoy deeply understanding the business needs, which allows me to deliver high-quality functional code. I ensure the smooth operation and maintainability of the application by implementing precise testing. These two aspects are essential for the design of sustainable and high-performing applications.
+
+I have enjoyed acquiring professional skills in recent technologies such as Typescript, React.Js, Vue.Js, Node.Js, and PostgreSql, as well as following good practices including Test Driven Development (TDD), code review, documentation writing, and pair programming.
+
+Today, I aim to get involved in projects that have a positive impact on society where I can utilize my development skills to offer innovative and sustainable solutions.
 
 **Languages and tools**
 
